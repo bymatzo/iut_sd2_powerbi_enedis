@@ -11,22 +11,22 @@ L’objectif est d’analyser la consommation et les caractéristiques énergét
 
 Le rapport Power BI est structuré autour de **4 grands axes** :
 
-### 1️⃣ Types d’énergies et types de bâtiments
+### 1 Types d’énergies et types de bâtiments
 - Analyse des **énergies utilisées** (électricité, gaz, etc.)
 - Répartition selon les **types de bâtiments**
 - Comparaison des consommations et performances énergétiques
 
-### 2️⃣ Coût du chauffage
+### 2 Coût du chauffage
 - Étude des **coûts liés au chauffage**
 - Comparaison selon les types d’énergie et de bâtiments
 - Identification des solutions les plus coûteuses et les plus économiques
 
-### 3️⃣ Analyse par villes
+### 3 Analyse par villes
 - Répartition géographique des données
 - Comparaison des consommations et coûts entre les villes
 - Mise en évidence des disparités territoriales
 
-### 4️⃣ Périodes de construction des bâtiments
+### 4 Périodes de construction des bâtiments
 - Comparaison des bâtiments selon leur **période de construction**
 - Impact de l’ancienneté sur la consommation énergétique
 - Analyse des évolutions des performances énergétiques dans le temps
