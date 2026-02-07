@@ -1,7 +1,7 @@
 # Analyse des données énergétiques – Projet Power BI
 
 ### Lien de la video : https://youtu.be/3fVwC00rR7k
-
+### Lien du PowerBI : https://app.powerbi.com/links/Uxmk6JUj9j?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare
 ## Présentation du projet
 
 Ce projet consiste en la réalisation d’un **rapport Power BI** basé sur des **données issues de la source Enedis**.  
